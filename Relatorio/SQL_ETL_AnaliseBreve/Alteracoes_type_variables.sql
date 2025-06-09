@@ -1,0 +1,15 @@
+/*Modificando o tipo das variaveis das colunas*/
+alter table dbo.Original alter column Ano int
+alter table dbo.Original alter column Mes int
+alter table dbo.Original alter column Dia int
+/*alter table dbo.Original alter column Ordem nchar(2)*/
+alter table dbo.Original alter column Pais nvarchar(22)
+alter table dbo.Original alter column Sessao_ID int
+alter table dbo.Original alter column Categoria_Principal nvarchar(1)
+alter table dbo.Original alter column Modelo_Roupa nvarchar(3)
+alter table dbo.Original alter column Cor nvarchar(2)
+alter table dbo.Original alter column Localizacao nvarchar(2)
+alter table dbo.Original alter column Fotografia_Modelo nvarchar(1)
+alter table dbo.Original alter column Preco nvarchar(2)
+alter table dbo.Original alter column Preco_2 nvarchar(1)
+alter table dbo.Original alter column Pagina nvarchar(1)
