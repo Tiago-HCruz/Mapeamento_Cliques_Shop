@@ -1,4 +1,4 @@
-<h1><a href="https://app.powerbi.com/view?r=eyJrIjoiOWYwYzkyZTUtNDZjNy00YTU0LWJmMDItOTlkMGM5YWE1MDQzIiwidCI6IjA1OTIzMjI3LWZhMGYtNDVmMC1hMGMzLTY4ZjA3MWM2ZDBkMCJ9&pageName=6a80a0752117d55a6f6c" target="_blank">Mapemaneto de Cliques em Loja Digital</a></h1>
+<h1><a href="https://app.powerbi.com/view?r=eyJrIjoiOWYwYzkyZTUtNDZjNy00YTU0LWJmMDItOTlkMGM5YWE1MDQzIiwidCI6IjA1OTIzMjI3LWZhMGYtNDVmMC1hMGMzLTY4ZjA3MWM2ZDBkMCJ9&pageName=6a80a0752117d55a6f6c" target="_blank">Mapeamento de Cliques em Loja Digital</a></h1>
 
 
 Esse relatório (realizada pelo software SQL, Linguaguem R e Power BI) tem como objetivo **analisar e mapear os cliques realizado na vitrine de roupas para gestante em um site**, desse modo foram feitas desse estudo, o mapeamento de cliques para cada pais e a árvore de decisão que levaram o cliente em clicar em um determinado produto.
